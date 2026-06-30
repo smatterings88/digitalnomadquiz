@@ -6,7 +6,7 @@ import cors from 'cors';
 import express from 'express';
 import path from 'path';
 import { fileURLToPath } from 'url';
-import { upsertQuizContact } from './ghl.js';
+import { handleQuizSubmit } from './quizSubmit.js';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const app = express();
@@ -24,49 +24,8 @@ app.get('/api/health', (_req, res) => {
 });
 
 app.post('/api/quiz-submit', async (req, res) => {
-  try {
-    const {
-      email,
-      pridenomad_archetype_primary: archetype,
-      pridenomad_urgency: urgency,
-      urgency_score: urgencyScore,
-      score_hh: scoreHh,
-      score_wl: scoreWl,
-      score_tc: scoreTc,
-      score_ar: scoreAr,
-      score_ck: scoreCk,
-      source = 'pridenomadquiz.com',
-    } = req.body ?? {};
-
-    if (!email || typeof email !== 'string' || !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) {
-      return res.status(400).json({ error: 'A valid email is required.' });
-    }
-
-    if (!process.env.GHL_API_TOKEN || !process.env.GHL_LOCATION_ID) {
-      console.warn('[quiz-submit] GHL not configured — accepting submission without sync');
-      return res.json({ ok: true, synced: false });
-    }
-
-    const result = await upsertQuizContact({
-      email: email.trim().toLowerCase(),
-      archetype,
-      urgency,
-      urgencyScore,
-      scoreHh,
-      scoreWl,
-      scoreTc,
-      scoreAr,
-      scoreCk,
-      source,
-    });
-
-    return res.json({ ok: true, synced: true, contactId: result.contactId, action: result.action });
-  } catch (error) {
-    console.error('[quiz-submit]', error);
-    return res.status(502).json({
-      error: 'Unable to sync with GoHighLevel. Your results are still shown — please try again or contact support.',
-    });
-  }
+  const { status, body } = await handleQuizSubmit(req.body);
+  return res.status(status).json(body);
 });
 
 if (isProd) {
