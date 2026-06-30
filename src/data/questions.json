@@ -1,0 +1,399 @@
+[
+  {
+    "text": "Which of these moments hits closest to home right now?",
+    "sub": null,
+    "options": [
+      {
+        "text": "Scrolling the news and feeling that low-grade dread that never quite goes away anymore",
+        "scores": {
+          "urgency": 1,
+          "hh": 1,
+          "tc": 1
+        }
+      },
+      {
+        "text": "Watching videos of people living abroad and thinking \"that could be me\" — then closing the tab",
+        "scores": {
+          "wl": 2,
+          "ck": 1
+        }
+      },
+      {
+        "text": "Running the numbers on what your life could look like somewhere with a lower cost of living",
+        "scores": {
+          "ar": 2,
+          "hh": 1
+        }
+      },
+      {
+        "text": "Dreaming about a morning where you wake up and just... breathe. No performance. No armor.",
+        "scores": {
+          "ck": 2,
+          "hh": 1
+        }
+      },
+      {
+        "text": "Feeling this quiet fury — like you're done shrinking yourself for a country that doesn't deserve you",
+        "scores": {
+          "tc": 2,
+          "urgency": 1
+        }
+      }
+    ]
+  },
+  {
+    "text": "Be honest — what does your ideal morning look like?",
+    "sub": "Don't overthink it. Your gut answer is the right one.",
+    "options": [
+      {
+        "text": "Coffee on a terrace, warm light, no agenda — just watching the neighborhood wake up",
+        "scores": {
+          "ck": 2,
+          "wl": 1
+        }
+      },
+      {
+        "text": "A trail run or swim somewhere beautiful before most people are even awake",
+        "scores": {
+          "wl": 2,
+          "hh": 1
+        }
+      },
+      {
+        "text": "Deep work session in a great café, then lunch with people who actually challenge me",
+        "scores": {
+          "ar": 2,
+          "tc": 1
+        }
+      },
+      {
+        "text": "Community — a farmers market, a conversation, feeling like I belong to something",
+        "scores": {
+          "hh": 2,
+          "ck": 1
+        }
+      },
+      {
+        "text": "Reading the news without my stomach dropping. Just... a morning that doesn't cost me something emotionally",
+        "scores": {
+          "urgency": 1,
+          "hh": 1,
+          "tc": 1
+        }
+      }
+    ]
+  },
+  {
+    "text": "Which of these descriptions makes you feel the most \"that's me\"?",
+    "sub": "Pick the one that lands, even if it's not perfect.",
+    "options": [
+      {
+        "text": "I want to feel safe in my body, in my neighborhood, in my doctor's office — all at once",
+        "scores": {
+          "hh": 3
+        }
+      },
+      {
+        "text": "I want to be somewhere so beautiful it rewires how I think about what's possible",
+        "scores": {
+          "wl": 3
+        }
+      },
+      {
+        "text": "I want to live somewhere that actually reflects my values — not just tolerates me",
+        "scores": {
+          "tc": 3
+        }
+      },
+      {
+        "text": "I want to build something — a business, a life, a future — with real infrastructure under it",
+        "scores": {
+          "ar": 3
+        }
+      },
+      {
+        "text": "I want to feel settled and rooted in a way I honestly haven't felt in decades",
+        "scores": {
+          "ck": 3
+        }
+      }
+    ]
+  },
+  {
+    "text": "When you imagine waking up somewhere that genuinely fits you — what's the first thing you notice?",
+    "sub": "Not where you are now. Where you'd actually want to be.",
+    "options": [
+      {
+        "text": "The quiet. No background hum of anxiety. Just actual quiet.",
+        "scores": {
+          "ck": 2,
+          "urgency": 1
+        }
+      },
+      {
+        "text": "That I'm not scanning my environment before I reach for my partner's hand",
+        "scores": {
+          "hh": 2,
+          "urgency": 1,
+          "tc": 1
+        }
+      },
+      {
+        "text": "The light. The landscape. Something that makes me feel alive just by looking at it",
+        "scores": {
+          "wl": 3
+        }
+      },
+      {
+        "text": "That my energy is going INTO something — building, creating — not into defending my right to exist",
+        "scores": {
+          "ar": 2,
+          "tc": 1
+        }
+      },
+      {
+        "text": "People living their lives as if everything is wonderful. And meaning it.",
+        "scores": {
+          "ck": 2,
+          "hh": 1
+        }
+      }
+    ]
+  },
+  {
+    "text": "How would you honestly describe your current relationship with the country you're living in?",
+    "sub": "No judgment either way. This helps us understand where you're starting from.",
+    "options": [
+      {
+        "text": "Exhausted. I've been fighting to belong here for so long I've forgotten what it feels like not to fight.",
+        "scores": {
+          "urgency": 2,
+          "hh": 1
+        }
+      },
+      {
+        "text": "Disconnected. Like I'm watching my life happen from behind glass.",
+        "scores": {
+          "urgency": 1,
+          "ck": 1,
+          "wl": 1
+        }
+      },
+      {
+        "text": "Angry. I built a good life here and now I feel like it's being taken apart piece by piece.",
+        "scores": {
+          "urgency": 2,
+          "tc": 2
+        }
+      },
+      {
+        "text": "Curious. I'm not in crisis — I'm just starting to wonder if there's more.",
+        "scores": {
+          "ar": 1,
+          "wl": 1
+        }
+      },
+      {
+        "text": "Quietly planning. I've been thinking about this longer than most people know.",
+        "scores": {
+          "ar": 2,
+          "urgency": 1
+        }
+      }
+    ]
+  },
+  {
+    "text": "Perhaps you've already noticed — there are certain things you stopped doing because it felt like too much work to be yourself. Which resonates?",
+    "sub": "The small costs. The ones that add up.",
+    "options": [
+      {
+        "text": "Editing what I say before I say it. Constantly. In almost every room.",
+        "scores": {
+          "hh": 1,
+          "tc": 2,
+          "urgency": 1
+        }
+      },
+      {
+        "text": "Not displaying affection in public the way straight couples do without thinking twice",
+        "scores": {
+          "hh": 2,
+          "urgency": 1
+        }
+      },
+      {
+        "text": "Shrinking my actual personality to make other people comfortable",
+        "scores": {
+          "wl": 2,
+          "tc": 1
+        }
+      },
+      {
+        "text": "Skipping events, places, or opportunities because the math on safety didn't work out",
+        "scores": {
+          "hh": 2,
+          "urgency": 1
+        }
+      },
+      {
+        "text": "Honestly? I've stopped noticing. Which might be the most exhausting answer of all.",
+        "scores": {
+          "urgency": 2,
+          "ck": 1
+        }
+      }
+    ]
+  },
+  {
+    "text": "You might find yourself wondering — what would it feel like to live somewhere that didn't require all that from you? When that thought shows up, what does it look like?",
+    "sub": "Just follow the thought wherever it goes.",
+    "options": [
+      {
+        "text": "Relief. Like putting down something heavy I didn't realize I'd been carrying.",
+        "scores": {
+          "ck": 2,
+          "hh": 1
+        }
+      },
+      {
+        "text": "Excitement — I can feel the version of myself who exists there. I just haven't met them yet.",
+        "scores": {
+          "wl": 2,
+          "tc": 1
+        }
+      },
+      {
+        "text": "Grief, actually. That I've spent this much of my life managing this instead of living it.",
+        "scores": {
+          "urgency": 2,
+          "hh": 1
+        }
+      },
+      {
+        "text": "Clarity. Like I'd finally have the bandwidth to build what I actually came here to build.",
+        "scores": {
+          "ar": 2,
+          "wl": 1
+        }
+      },
+      {
+        "text": "Honestly — I can't quite imagine it yet. That's part of why I'm taking this quiz.",
+        "scores": {
+          "hh": 1,
+          "urgency": 1
+        }
+      }
+    ]
+  },
+  {
+    "text": "What's the thing you're most hoping a different life could give you — that this one hasn't?",
+    "sub": "Go ahead and want what you want. This is a safe place to say it.",
+    "options": [
+      {
+        "text": "To feel settled. Rooted. Like I actually belong to the place I'm living in.",
+        "scores": {
+          "ck": 3
+        }
+      },
+      {
+        "text": "To be surrounded by beauty — landscapes, culture, food, people — that makes me feel alive",
+        "scores": {
+          "wl": 3
+        }
+      },
+      {
+        "text": "To live somewhere that treats my rights as obvious — not as something to be debated",
+        "scores": {
+          "tc": 3
+        }
+      },
+      {
+        "text": "To build real financial and creative freedom with the systems to support it",
+        "scores": {
+          "ar": 3
+        }
+      },
+      {
+        "text": "To feel safe. Genuinely, physically, medically safe — and to stop spending energy managing that.",
+        "scores": {
+          "hh": 3
+        }
+      }
+    ]
+  },
+  {
+    "text": "Let's say you've been living abroad for six months. You're on a video call with a friend back home. They ask how you're doing. What do you say?",
+    "sub": "Don't think about logistics. Just feel into the answer.",
+    "options": [
+      {
+        "text": "\"I can't imagine going back. I really can't.\"",
+        "scores": {
+          "urgency": 2,
+          "ck": 1,
+          "wl": 1
+        }
+      },
+      {
+        "text": "\"I feel really settled and rooted here — something I haven't felt in decades.\"",
+        "scores": {
+          "ck": 3
+        }
+      },
+      {
+        "text": "\"I'm not here to fit in — I'm here to shine. And for the first time, the place agrees.\"",
+        "scores": {
+          "wl": 2,
+          "tc": 1
+        }
+      },
+      {
+        "text": "\"The business is actually working. The infrastructure here is real. I'm building.\"",
+        "scores": {
+          "ar": 3
+        }
+      },
+      {
+        "text": "\"I've never felt more at home in my own body. That's the only way I know how to say it.\"",
+        "scores": {
+          "hh": 3
+        }
+      }
+    ]
+  },
+  {
+    "text": "One last thing. When you picture yourself truly free, what does \"free\" actually mean to you?",
+    "sub": "Your answer shapes everything we're about to show you.",
+    "options": [
+      {
+        "text": "Free means safe. Free means my body, my love, my healthcare — protected. Without having to fight for it.",
+        "scores": {
+          "hh": 3
+        }
+      },
+      {
+        "text": "Free means alive. Somewhere so beautiful and full of possibility that I feel it in my chest every day.",
+        "scores": {
+          "wl": 3
+        }
+      },
+      {
+        "text": "Free means aligned. Living somewhere whose laws and culture actually reflect what I believe about human dignity.",
+        "scores": {
+          "tc": 3
+        }
+      },
+      {
+        "text": "Free means built. A life I designed, with real systems under it, that can't be taken from me.",
+        "scores": {
+          "ar": 3
+        }
+      },
+      {
+        "text": "Free means still. A slow, deep life — a morning that's mine, a neighborhood that knows me, roots.",
+        "scores": {
+          "ck": 3
+        }
+      }
+    ]
+  }
+]

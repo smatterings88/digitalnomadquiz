@@ -1,0 +1,107 @@
+{
+  "hh": {
+    "badge": "🤍 The Healer-Heart",
+    "headline": "You're not looking for a destination.\nYou're looking for a place that finally loves you back.",
+    "body": "<p>Safety isn't paranoia for you — it's a prerequisite. You've spent years reading rooms, code-switching, calculating how much of yourself is safe to show in which contexts, and you are exhausted in a way that's hard to explain to people who've never had to do it. What you need isn't just legal protection — you need a community that already knows your name before you get there, neighbors who don't require explanation, and a daily life where your nervous system can finally unclench.</p>\n<p>The destinations that score highest for your profile have deep, established LGBTQ community infrastructure — not just Pride parades, but mutual aid networks, queer-owned neighborhoods, healthcare providers who specialize, and a social fabric that holds people. You don't need everywhere to be perfect. You need your corner of it to be real.</p>\n<p>The PrideNomad Index ranks your top destinations by community density, healthcare access, and lived safety scores gathered from LGBTQ expats already living there.</p>",
+    "destinations": [
+      {
+        "flag": "🇵🇹",
+        "name": "Portugal"
+      },
+      {
+        "flag": "🇨🇷",
+        "name": "Costa Rica"
+      },
+      {
+        "flag": "🇪🇸",
+        "name": "Spain"
+      }
+    ],
+    "ctaHigh": "See the destinations built for the Healer-Heart →",
+    "ctaLow": "Explore the Healer-Heart Intelligence Report →"
+  },
+  "wl": {
+    "badge": "✨ The Wildlight",
+    "headline": "You've been auditioning for a life that was never going to exist here.\nTime to go find the real one.",
+    "body": "<p>There's a version of you that has been running in the background for years — the one who books the flight, stays longer than planned, learns enough of the language to get in trouble, and comes back changed in ways you can't quite explain to people who stayed. That version isn't a fantasy. It's just been waiting for you to stop treating it like one.</p>\n<p>You don't need a safe, predictable landing — you need a place with enough wildness and beauty to match what's actually inside you, with enough queer life woven through it that you can be fully yourself in the middle of all of it.</p>\n<p>The PrideNomad Index ranks your top destinations by LGBTQ visibility, natural and cultural richness, and expat community vitality. You're not leaving the US to hide. You're leaving to finally show up.</p>",
+    "destinations": [
+      {
+        "flag": "🇨🇴",
+        "name": "Colombia"
+      },
+      {
+        "flag": "🇲🇽",
+        "name": "Mexico"
+      },
+      {
+        "flag": "🇳🇿",
+        "name": "New Zealand"
+      }
+    ],
+    "ctaHigh": "Show me where the Wildlight belongs →",
+    "ctaLow": "Explore the Wildlight Intelligence Report →"
+  },
+  "tc": {
+    "badge": "🔥 The Truthcaster",
+    "headline": "You need somewhere that doesn't just tolerate you.\nYou need somewhere that's actually gotten it right.",
+    "body": "<p>For you, this was never just personal — it's political, philosophical, and deeply moral. You've watched legal protections erode in real time and felt it as something close to a betrayal, not just of policy, but of a promise you thought your country had made. You're not fleeing. You're relocating your life to somewhere whose laws and culture actually reflect what you believe about human dignity.</p>\n<p>The destinations that score highest for your profile have strong constitutional or legislative LGBTQ protections, active civil society, and an expat community that includes people who came for the same reasons you're considering leaving. You want to matter somewhere. This is how you find it.</p>\n<p>The PrideNomad Index scores destinations on legal protection depth, political trajectory, and values alignment — not just current status, but direction of travel. Your Truthcaster destinations are ready.</p>",
+    "destinations": [
+      {
+        "flag": "🇳🇱",
+        "name": "Netherlands"
+      },
+      {
+        "flag": "🇨🇦",
+        "name": "Canada"
+      },
+      {
+        "flag": "🇮🇸",
+        "name": "Iceland"
+      }
+    ],
+    "ctaHigh": "Find the destinations that got it right →",
+    "ctaLow": "Explore the Truthcaster Intelligence Report →"
+  },
+  "ar": {
+    "badge": "🏗️ The Architect",
+    "headline": "You're not afraid of the move.\nYou're afraid of moving without a plan that actually works.",
+    "body": "<p>You've probably already started the spreadsheet. Visa categories, tax implications, healthcare equivalency, cost of living adjusted for purchasing power, banking access for non-residents — you're not someone who romanticizes this, and that's not a flaw, that's the reason you're going to actually do it when most people just talk about it. What you need isn't inspiration. You need the data to be organized, trustworthy, and specific to someone with your actual profile.</p>\n<p>The destinations that score highest for your profile have clear, stable visa pathways, reliable international banking access, strong private healthcare options, and established expat infrastructure that means you're not pioneering — you're joining a system that already works. You build things. Build this.</p>\n<p>The PrideNomad Index ranks destinations by visa pathway clarity, financial infrastructure, healthcare quality, and expat network depth — with LGBTQ legal standing scored as a hard filter, not an afterthought.</p>",
+    "destinations": [
+      {
+        "flag": "🇵🇹",
+        "name": "Portugal"
+      },
+      {
+        "flag": "🇪🇪",
+        "name": "Estonia"
+      },
+      {
+        "flag": "🇦🇷",
+        "name": "Argentina"
+      }
+    ],
+    "ctaHigh": "Get the data behind the Architect's top destinations →",
+    "ctaLow": "Explore the Architect Intelligence Report →"
+  },
+  "ck": {
+    "badge": "🌿 The Calmkeeper",
+    "headline": "The quiet you've been looking for is a real place.\nLet's find out where it is.",
+    "body": "<p>You're not dramatic about this. You don't need a manifesto or a movement — you need to stop being exhausted by your own country and you need that to happen soon. You've been running on vigilance for so long that you've forgotten what it feels like when your nervous system isn't doing background threat-assessment every time you hold your partner's hand in public, or read the news, or just exist in a space that wasn't built with you in mind.</p>\n<p>The destinations that score highest for your profile combine genuine LGBTQ social acceptance (not just legal protection, but actual daily lived ease), a slower pace of life, natural beauty, and a cost of living that lets you exhale financially as well as emotionally. You're not asking for much. What you're asking for is everything.</p>\n<p>The PrideNomad Index scores destinations on social acceptance depth, pace-of-life quality, cost-of-living comfort, and LGBTQ daily lived experience — gathered from people who made this exact move. Your Calmkeeper destinations are ready.</p>",
+    "destinations": [
+      {
+        "flag": "🇮🇹",
+        "name": "Italy"
+      },
+      {
+        "flag": "🇬🇷",
+        "name": "Greece"
+      },
+      {
+        "flag": "🇧🇿",
+        "name": "Belize"
+      }
+    ],
+    "ctaHigh": "Show me where the Calmkeeper finally rests →",
+    "ctaLow": "Explore the Calmkeeper Intelligence Report →"
+  }
+}
